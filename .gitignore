@@ -1,0 +1,9 @@
+# .gitignore
+config.py
+data/*
+charts/*
+*.pyc
+__pycache__/
+*.env
+*.log
+venv/
